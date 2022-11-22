@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Neil0710/managing-npm-packages.git"
   },
   "description": "A project that does something awesome",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "devDependencies": {},
   "license": "MIT",
   "bugs": {
