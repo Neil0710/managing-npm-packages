@@ -10,10 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Neil0710/managing-npm-packages.git"
+    "url": "git+https://github.com/Neil0710/managing-npm-packages.git"
   },
   "description": "A project that does something awesome",
   "version": "1.0.0",
   "devDependencies": {},
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neil0710/managing-npm-packages/issues"
+  },
+  "homepage": "https://github.com/Neil0710/managing-npm-packages#readme",
+  "keywords": [
+    "freecodecamp",
+    "descriptive",
+    "related"
+  ]
 }
