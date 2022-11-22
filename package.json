@@ -15,7 +15,7 @@
   "description": "A project that does something awesome",
   "version": "1.0.0",
   "devDependencies": {},
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Neil0710/managing-npm-packages/issues"
   },
